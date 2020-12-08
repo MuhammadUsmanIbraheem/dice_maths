@@ -1,4 +1,18 @@
 # dice_maths
+![main](https://user-images.githubusercontent.com/73757387/101522765-80514c80-39a9-11eb-98d0-ada1e2faec8c.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A new Flutter application.
 
